@@ -1,2 +1,2 @@
 # Python
-All I learned and practice about Python.
+All I learned and practiced in Python.
